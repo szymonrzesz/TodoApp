@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shymo\\Desktop\\TodoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{380C6A63-7FAD-44C6-88B0-737D2A9C7F9E}|WebApi\\WebApi.csproj|c:\\users\\shymo\\desktop\\todoapp\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380C6A63-7FAD-44C6-88B0-737D2A9C7F9E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380C6A63-7FAD-44C6-88B0-737D2A9C7F9E}|WebApi\\WebApi.csproj|c:\\users\\shymo\\desktop\\todoapp\\webapi\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380C6A63-7FAD-44C6-88B0-737D2A9C7F9E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380C6A63-7FAD-44C6-88B0-737D2A9C7F9E}|WebApi\\WebApi.csproj|c:\\users\\shymo\\desktop\\todoapp\\webapi\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380C6A63-7FAD-44C6-88B0-737D2A9C7F9E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380C6A63-7FAD-44C6-88B0-737D2A9C7F9E}|WebApi\\WebApi.csproj|c:\\users\\shymo\\desktop\\todoapp\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{380C6A63-7FAD-44C6-88B0-737D2A9C7F9E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380C6A63-7FAD-44C6-88B0-737D2A9C7F9E}|WebApi\\WebApi.csproj|c:\\users\\shymo\\desktop\\todoapp\\webapi\\models\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380C6A63-7FAD-44C6-88B0-737D2A9C7F9E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shymo\\Desktop\\TodoApp\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\shymo\\Desktop\\TodoApp\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T10:19:42.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\shymo\\Desktop\\TodoApp\\WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\shymo\\Desktop\\TodoApp\\WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-29T09:45:40.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\shymo\\Desktop\\TodoApp\\WebApi\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\shymo\\Desktop\\TodoApp\\WebApi\\Models\\Event.cs",
+              "RelativeToolTip": "WebApi\\Models\\Event.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T09:37:46.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventDto.cs",
+              "DocumentMoniker": "C:\\Users\\shymo\\Desktop\\TodoApp\\WebApi\\Models\\EventDto.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\EventDto.cs",
+              "ToolTip": "C:\\Users\\shymo\\Desktop\\TodoApp\\WebApi\\Models\\EventDto.cs",
+              "RelativeToolTip": "WebApi\\Models\\EventDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T09:37:36.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\shymo\\Desktop\\TodoApp\\WebApi\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\shymo\\Desktop\\TodoApp\\WebApi\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\EventsController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T09:31:00.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
