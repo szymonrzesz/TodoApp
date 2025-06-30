@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\shymo\\Desktop\\TodoApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F0F841E-D5FD-4121-9908-4EB2B3555CC1}|BlazorApp\\BlazorApp.csproj|c:\\users\\shymo\\desktop\\todoapp\\blazorapp\\pages\\events\\eventlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1F0F841E-D5FD-4121-9908-4EB2B3555CC1}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\pages\\events\\eventlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F0F841E-D5FD-4121-9908-4EB2B3555CC1}|BlazorApp\\BlazorApp.csproj|c:\\users\\shymo\\desktop\\todoapp\\blazorapp\\models\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F0F841E-D5FD-4121-9908-4EB2B3555CC1}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\models\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F0F841E-D5FD-4121-9908-4EB2B3555CC1}|BlazorApp\\BlazorApp.csproj|c:\\users\\shymo\\desktop\\todoapp\\blazorapp\\pages\\events\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1F0F841E-D5FD-4121-9908-4EB2B3555CC1}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\pages\\events\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F0F841E-D5FD-4121-9908-4EB2B3555CC1}|BlazorApp\\BlazorApp.csproj|c:\\users\\shymo\\desktop\\todoapp\\blazorapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1F0F841E-D5FD-4121-9908-4EB2B3555CC1}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F0F841E-D5FD-4121-9908-4EB2B3555CC1}|BlazorApp\\BlazorApp.csproj|c:\\users\\shymo\\desktop\\todoapp\\blazorapp\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F0F841E-D5FD-4121-9908-4EB2B3555CC1}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1F0F841E-D5FD-4121-9908-4EB2B3555CC1}|BlazorApp\\BlazorApp.csproj|c:\\users\\shymo\\desktop\\todoapp\\blazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F0F841E-D5FD-4121-9908-4EB2B3555CC1}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{380C6A63-7FAD-44C6-88B0-737D2A9C7F9E}|WebApi\\WebApi.csproj|c:\\users\\shymo\\desktop\\todoapp\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{380C6A63-7FAD-44C6-88B0-737D2A9C7F9E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{1F0F841E-D5FD-4121-9908-4EB2B3555CC1}|BlazorApp\\BlazorApp.csproj|c:\\users\\shymo\\desktop\\todoapp\\blazorapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F0F841E-D5FD-4121-9908-4EB2B3555CC1}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0F841E-D5FD-4121-9908-4EB2B3555CC1}|BlazorApp\\BlazorApp.csproj|c:\\users\\shymo\\desktop\\todoapp\\blazorapp\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F0F841E-D5FD-4121-9908-4EB2B3555CC1}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0F841E-D5FD-4121-9908-4EB2B3555CC1}|BlazorApp\\BlazorApp.csproj|c:\\users\\shymo\\desktop\\todoapp\\blazorapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F0F841E-D5FD-4121-9908-4EB2B3555CC1}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,45 +26,45 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.razor",
-              "DocumentMoniker": "C:\\Users\\shymo\\Desktop\\TodoApp\\BlazorApp\\Pages\\Events\\Create.razor",
-              "RelativeDocumentMoniker": "BlazorApp\\Pages\\Events\\Create.razor",
-              "ToolTip": "C:\\Users\\shymo\\Desktop\\TodoApp\\BlazorApp\\Pages\\Events\\Create.razor",
-              "RelativeToolTip": "BlazorApp\\Pages\\Events\\Create.razor",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAEEAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-29T10:56:04.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EventList.razor",
-              "DocumentMoniker": "C:\\Users\\shymo\\Desktop\\TodoApp\\BlazorApp\\Pages\\Events\\EventList.razor",
-              "RelativeDocumentMoniker": "BlazorApp\\Pages\\Events\\EventList.razor",
-              "ToolTip": "C:\\Users\\shymo\\Desktop\\TodoApp\\BlazorApp\\Pages\\Events\\EventList.razor",
-              "RelativeToolTip": "BlazorApp\\Pages\\Events\\EventList.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-29T10:33:53.717Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shymo\\Desktop\\TodoApp\\BlazorApp\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorApp\\Program.cs",
+              "ToolTip": "C:\\Users\\shymo\\Desktop\\TodoApp\\BlazorApp\\Program.cs",
+              "RelativeToolTip": "BlazorApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T18:26:34.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EventDto.cs",
-              "DocumentMoniker": "C:\\Users\\shymo\\Desktop\\TodoApp\\BlazorApp\\Models\\EventDto.cs",
-              "RelativeDocumentMoniker": "BlazorApp\\Models\\EventDto.cs",
-              "ToolTip": "C:\\Users\\shymo\\Desktop\\TodoApp\\BlazorApp\\Models\\EventDto.cs",
-              "RelativeToolTip": "BlazorApp\\Models\\EventDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T10:54:54.177Z",
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\shymo\\Desktop\\TodoApp\\BlazorApp\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "BlazorApp\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\shymo\\Desktop\\TodoApp\\BlazorApp\\wwwroot\\index.html",
+              "RelativeToolTip": "BlazorApp\\wwwroot\\index.html",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-30T18:25:54.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\shymo\\Desktop\\TodoApp\\BlazorApp\\App.razor",
+              "RelativeDocumentMoniker": "BlazorApp\\App.razor",
+              "ToolTip": "C:\\Users\\shymo\\Desktop\\TodoApp\\BlazorApp\\App.razor",
+              "RelativeToolTip": "BlazorApp\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T18:25:46.001Z",
               "EditorCaption": ""
             },
             {
@@ -87,48 +75,9 @@
               "RelativeDocumentMoniker": "BlazorApp\\_Imports.razor",
               "ToolTip": "C:\\Users\\shymo\\Desktop\\TodoApp\\BlazorApp\\_Imports.razor",
               "RelativeToolTip": "BlazorApp\\_Imports.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-29T10:38:45.077Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Event.cs",
-              "DocumentMoniker": "C:\\Users\\shymo\\Desktop\\TodoApp\\BlazorApp\\Models\\Event.cs",
-              "RelativeDocumentMoniker": "BlazorApp\\Models\\Event.cs",
-              "ToolTip": "C:\\Users\\shymo\\Desktop\\TodoApp\\BlazorApp\\Models\\Event.cs",
-              "RelativeToolTip": "BlazorApp\\Models\\Event.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T10:37:30.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\shymo\\Desktop\\TodoApp\\WebApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "WebApi\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\shymo\\Desktop\\TodoApp\\WebApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "WebApi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-29T10:32:53.333Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\shymo\\Desktop\\TodoApp\\BlazorApp\\Program.cs",
-              "RelativeDocumentMoniker": "BlazorApp\\Program.cs",
-              "ToolTip": "C:\\Users\\shymo\\Desktop\\TodoApp\\BlazorApp\\Program.cs",
-              "RelativeToolTip": "BlazorApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T10:32:33.353Z",
+              "WhenOpened": "2025-06-30T18:25:26.99Z",
               "EditorCaption": ""
             }
           ]

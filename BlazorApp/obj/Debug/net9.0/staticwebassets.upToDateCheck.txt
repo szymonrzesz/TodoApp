@@ -48,7 +48,6 @@ wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 wwwroot\sample-data\weather.json
 C:\Users\shymo\Desktop\TodoApp\BlazorApp\wwwroot\css\app.css
-C:\Users\shymo\Desktop\TodoApp\BlazorApp\wwwroot\index.html
 C:\Users\shymo\Desktop\TodoApp\BlazorApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 C:\Users\shymo\Desktop\TodoApp\BlazorApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 C:\Users\shymo\Desktop\TodoApp\BlazorApp\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
@@ -94,3 +93,4 @@ C:\Users\shymo\Desktop\TodoApp\BlazorApp\wwwroot\lib\bootstrap\dist\js\bootstrap
 C:\Users\shymo\Desktop\TodoApp\BlazorApp\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 C:\Users\shymo\Desktop\TodoApp\BlazorApp\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 C:\Users\shymo\Desktop\TodoApp\BlazorApp\wwwroot\sample-data\weather.json
+C:\Users\shymo\Desktop\TodoApp\BlazorApp\wwwroot\index.html
